@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Yakov",
+        "age": "12",
+        "location": "Dnipro"
+    },
+    {
+        "name": "Ilya",
+        "age": "14",
+        "location": "Kharkiv"
+    },
+    {
+        "name": "Semen",
+        "age": "14",
+        "location": "Dnipro"
+    },
+    {
+        "name": "Uilyam",
+        "age": "13",
+        "location": "Ternopil"
+    }
+]
